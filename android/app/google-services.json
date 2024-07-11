@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "480320484869",
+    "project_id": "fastcampus-market-02",
+    "storage_bucket": "fastcampus-market-02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480320484869:android:168cfbbce6a35330e28e6c",
+        "android_client_info": {
+          "package_name": "com.archy712.fastcampus_market_02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480320484869-4l0c4um9c3oqls1ll1r081k1mphf45j6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.archy712.fastcampus_market_02",
+            "certificate_hash": "0c5bfe89c463583dffa56e6ff798905fbdfd283f"
+          }
+        },
+        {
+          "client_id": "480320484869-9n4q2t7vs3f1dmu0erbm4jdmgojbg41j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPyH-7Ce1-LvlL2wNB_te3BfJbyX8rg6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480320484869-9n4q2t7vs3f1dmu0erbm4jdmgojbg41j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "480320484869-jm26fjjk9ckru2rpg3r5aqqad145ueeb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.archy712.fastcampusMarket02"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
